@@ -1,5 +1,5 @@
 <h1>Hi, I'm Irfann ! <br/><a href="https://github.com/irfann95"></a> <a href="https://www.linkedin.com/in/irfann-assana/">Cybersecurity Student</a> </h1>
-
+Enthusiastic about computer science, I enjoy discovering new horizons in this field. I am particularly drawn to cybersecurity, as it is a crucial realm for safeguarding systems and data in our ever-evolving digital world. My goal is to continue my education and expand my skills in the realm of computer security, in order to tackle increasingly intricate challenges. If you find my profile intriguing or have potential opportunities to propose, I would be delighted to engage in a discussion with you.
 <h2>👨‍💻 My Projects:</h2>
 
 
