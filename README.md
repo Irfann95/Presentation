@@ -4,8 +4,8 @@
 
 
 - <b>Python</b>
-  - [Port Scanner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Password Generator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Port Scanner](https://github.com/Irfann95/scanner_port)
+  - [Password Generator]()
 
 
 <h2> 🤳 Connect with me:</h2>
