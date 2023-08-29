@@ -5,7 +5,7 @@
 
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
-  - [Password Generator]()
+  - [Password Generator](https://github.com/Irfann95/password_generator)
 
 
 <h2> 🤳 Connect with me:</h2>
