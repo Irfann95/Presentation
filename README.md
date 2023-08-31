@@ -9,6 +9,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 
 - <b>Java</b>
   - [RSA-AES_encryption](https://github.com/Irfann95/RSA-AES_encryption)
+  - [Password Manager](https://github.com/Irfann95/Password_Manager)
 
 
 <h2> 🤳 Connect with me:</h2>
