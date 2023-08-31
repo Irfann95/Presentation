@@ -7,6 +7,9 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
 
+- <b>Java</b>
+  - [RSA-AES_encryption](https://github.com/Irfann95/RSA-AES_encryption)
+
 
 <h2> 🤳 Connect with me:</h2>
 
