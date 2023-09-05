@@ -12,7 +12,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Password Manager](https://github.com/Irfann95/Password_Manager)
 - <b>HTML/CSS</b>
   - [Website article on cybersecurity in healthcare](https://github.com/Irfann95/website-article-cyber)
-- <b>Keycloak<b>
+- <b>Keycloak</b>
   - [Passwordless Authentication](https://github.com/Irfann95/Passwordless_Authentication)
 
 
