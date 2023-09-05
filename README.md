@@ -13,7 +13,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 - <b>HTML/CSS</b>
   - [Website article on cybersecurity in healthcare](https://github.com/Irfann95/website-article-cyber)
 - <b>Keycloak</b>
-  - [Passwordless Authentication](https://github.com/Irfann95/Passwordless_Authentication)
+  - [Passwordless Authentification](https://github.com/Irfann95/Passwordless_Authentication)
 
 
 <h2> 🤳 Connect with me:</h2>
