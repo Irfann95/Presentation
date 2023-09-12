@@ -14,7 +14,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Website article on cybersecurity in healthcare](https://github.com/Irfann95/website-article-cyber)
 - <b>Keycloak</b>
   - [Passwordless Authentification](https://github.com/Irfann95/Passwordless_Authentication)
-- <b>Network Projets</b>
+- <b>Bash</b>
     - [Installation and configuration of DHCP Server](https://github.com/Irfann95/DHCP_server)
 
 
