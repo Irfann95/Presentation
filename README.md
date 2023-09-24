@@ -6,7 +6,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
-  - [Vigenere cypher programm](https://github.com/Irfann95/vigenere_cipher)
+  - [Vigenere Cypher Programm](https://github.com/Irfann95/vigenere_cipher)
 
 - <b>Java</b>
   - [RSA-AES encryption](https://github.com/Irfann95/RSA-AES_encryption)
