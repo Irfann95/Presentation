@@ -2,7 +2,9 @@
 Enthusiastic about computer science, I enjoy discovering new horizons in this field. I am particularly drawn to cybersecurity, as it is a crucial realm for safeguarding systems and data in our ever-evolving digital world. My goal is to continue my education and expand my skills in the realm of computer security, in order to tackle increasingly intricate challenges. If you find my profile intriguing or have potential opportunities to propose, I would be delighted to engage in a discussion with you.
 <h2>👨‍💻 My Projects:</h2>
 
-
+<h3>Main Projects</h3>
+- <b>Web Developpement<b>
+  
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
