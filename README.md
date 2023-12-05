@@ -3,7 +3,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 <h2>👨‍💻 My Projects:</h2>
 
 <h3>Main Projects</h3>
-- <b>Web Developpement:</b>
+<h4>Web Developpement :</h4> <br>
   - [Job Offers Website](https://github.com/Irfann95/job_board)
   
 - <b>Python</b>
