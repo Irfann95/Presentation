@@ -3,9 +3,10 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 <h2>👨‍💻 My Projects:</h2>
 
 <h3>Main Projects</h3>
-<h4>Web Developpement :</h4> <br>
-  - [Job Offers Website](https://github.com/Irfann95/job_board)
-  
+<h4>Web Development :</h4>
+- [Job Offers Website](https://github.com/irfann95/job_board)
+
+
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
