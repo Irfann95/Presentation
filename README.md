@@ -1,10 +1,10 @@
-<h1>Hi, I'm Irfann ! <br/><a href="https://github.com/irfann95"></a> Cybersecurity Student.</h1>
+<h1>Hi, I'm <a href="https://github.com/irfann95">Irfann</a> ! Cybersecurity Student.</h1>
 Enthusiastic about computer science, I enjoy discovering new horizons in this field. I am particularly drawn to cybersecurity, as it is a crucial realm for safeguarding systems and data in our ever-evolving digital world. My goal is to continue my education and expand my skills in the realm of computer security, in order to tackle increasingly intricate challenges. If you find my profile intriguing or have potential opportunities to propose, I would be delighted to engage in a discussion with you.
 <h2>👨‍💻 My Projects:</h2>
 
 <h3>Main Projects</h3>
-<h4>Web Development :</h4>
-- [Job Offers Website](https://github.com/irfann95/job_board)
+- <b>Web Development :</b>
+- [Job Offers Website](https://github.com/Irfann95/Job_board)
 
 
 - <b>Python</b>
