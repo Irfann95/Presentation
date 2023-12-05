@@ -13,8 +13,6 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 - <b>Java</b>
   - [RSA-AES encryption](https://github.com/Irfann95/RSA-AES_encryption)
   - [Password Manager](https://github.com/Irfann95/Password_Manager)
-- <b>HTML/CSS</b>
-  - [Website article on cybersecurity in healthcare](https://github.com/Irfann95/website-article-cyber)
 - <b>Keycloak</b>
   - [Passwordless Authentification](https://github.com/Irfann95/Passwordless_Authentication)
 - <b>Bash</b>
