@@ -12,7 +12,6 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 <h3>Solo Projects</h3>
 - <b>Web Development :</b>
   - [My PortFolio](https://github.com/Irfann95/Portfolio)
-
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
