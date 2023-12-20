@@ -10,10 +10,10 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Tower Defense Game](https://github.com/Irfann95/Tower_Defense_Game)
 
 <h3>Solo Projects</h3>
-- <b>Web Development</b>
-  - [My PortFolio](https://github.com/Irfann95/Portfolio)
-<!-- - <b>Web Development</b>
-  - [My PortFolio](https://github.com/Irfann95/Portfolio) -->
+- <b>Python</b>
+  - [Port Scanner](https://github.com/Irfann95/scanner_port)
+  - [Password Generator](https://github.com/Irfann95/password_generator)
+  - [Vigenere Cypher Programm](https://github.com/Irfann95/vigenere_cipher)
   
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
