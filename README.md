@@ -10,7 +10,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Tower Defense Game](https://github.com/Irfann95/Tower_Defense_Game)
 
 <h3>Solo Projects</h3>
-- <b>Web Development :</b>
+- <b>Web Development</b>
   - [My PortFolio](https://github.com/Irfann95/Portfolio)
   
 - <b>Python</b>
