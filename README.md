@@ -10,6 +10,9 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Tower Defense Game](https://github.com/Irfann95/Tower_Defense_Game)
 
 <h3>Solo Projects</h3>
+
+
+
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
   - [Password Generator](https://github.com/Irfann95/password_generator)
