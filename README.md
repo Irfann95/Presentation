@@ -14,7 +14,7 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
 
 
 - <b>Web Development :</b>
-  - [PortFolio](https://github.com/Irfann95/Portfolio)
+  - [My PortFolio](https://github.com/Irfann95/Portfolio)
   
 - <b>Python</b>
   - [Port Scanner](https://github.com/Irfann95/scanner_port)
