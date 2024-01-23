@@ -21,9 +21,6 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Password Generator](https://github.com/Irfann95/password_generator)
   - [Vigenere Cypher Programm](https://github.com/Irfann95/vigenere_cipher)
 
-- <b>Java</b>
-  - [RSA-AES encryption](https://github.com/Irfann95/RSA-AES_encryption)
-  - [Password Manager](https://github.com/Irfann95/Password_Manager)
 - <b>Keycloak</b>
   - [Passwordless Authentification](https://github.com/Irfann95/Passwordless_Authentication)
 - <b>Bash</b>
