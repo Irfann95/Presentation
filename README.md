@@ -8,7 +8,8 @@ Enthusiastic about computer science, I enjoy discovering new horizons in this fi
   - [Job Offers Website](https://github.com/Irfann95/Job_board)
 - <b>Object-oriented language : </b>
   - [Tower Defense Game](https://github.com/Irfann95/Tower_Defense_Game)
-
+- <b>Mobile Application Development : </b>
+  - [Project Management Mobile Application](https://github.com/Irfann95/Project_management_app)
 <h3>Solo Projects</h3>
 
 
